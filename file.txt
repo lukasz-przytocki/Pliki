@@ -1,0 +1,8 @@
+Poniedziałek
+Wtorek
+Sroda
+Czwartek
+Piatek
+Sobota
+Niedziela
+
